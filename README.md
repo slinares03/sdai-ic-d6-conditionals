@@ -30,3 +30,12 @@ Note: All work in this lab will be done in the `script.js` file. The HTML exists
 ![example_4](./assets/code_examples/example_4.png)
 
 [ ] Try this one yourself. Create a variable `isLoggedIn` and set it to `true` (Boolean, not String) to represent yourself being logged into some account you have. Create an `if` statement that welcomes you back if you are logged in, or asks you to log in if you are not logged in. Once you have it working change the value of `isLoggedIn` to `false` and check your results.
+
+---
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d6-conditionals/tree/solution)
