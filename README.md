@@ -2,11 +2,18 @@
 
 ---
 
-## Description
+## Description 📄
 
 Now we will practice conditionals in Javascript. Conditionals are fundamental building blocks in programming that allow you to make decisions based on certain conditions. 
 
 Note: All work in this lab will be done in the `script.js` file. The HTML exists only to link the Javascript file so we can use the browser console. 
+
+---
+
+## Codespaces Guidance 📄
+Should you need guidance on how to fork, open, edit, and maintain your codespaces, please use the link below by right clicking and opening in a new tab.  
+
+[GitHub Codespaces Guidance](https://gist.github.com/JohnWP8253/4fff80f43d07a04ee3f1514c0a1d354a)
 
 ---
 
