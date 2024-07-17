@@ -33,6 +33,7 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 ![example_3](./assets/code_examples/example_3.png)
 
 [ ] Now to try something a little trickier. Let's create a conditional to compare the ages of two different people. Notice how this example makes use of the `else if`. This allows us to make check if one person is older, younger, or the same age as another person. There is no limit to how many `else if` statements you can use.
+  [ ] Also notice that the last `console.log()` is empty. Enter in the logical statement into the method. 
 
 ![example_4](./assets/code_examples/example_4.png)
 
